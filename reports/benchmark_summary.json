@@ -1,0 +1,16 @@
+{
+    "model": "phi3:mini",
+    "prompt_type": "strict_json",
+    "total_runs": 15,
+    "valid_outputs": 2,
+    "json_errors": 2,
+    "schema_errors": 11,
+    "hallucinations": 0,
+    "reliability_score_percent": 13.33,
+    "report_file": "reports/strict_json_benchmark.csv",
+    "sample_output": {
+        "name": "Pranjali",
+        "age": 22,
+        "course": "MCA"
+    }
+}

@@ -1,0 +1,16 @@
+run_id,valid,error_type,hallucination,response_time_sec
+1,True,,False,0.0
+2,True,,False,0.0
+3,True,,False,0.0
+4,True,,False,0.0
+5,True,,False,0.0
+6,True,,False,0.0
+7,True,,False,0.0
+8,True,,False,0.0
+9,True,,False,0.0
+10,True,,False,0.0001
+11,True,,False,0.0
+12,True,,False,0.0
+13,True,,False,0.0
+14,True,,False,0.0
+15,True,,False,0.0
