@@ -90,15 +90,4 @@ LLM_JSON_Project/
 ├─ reports/
 ├─ requirements.txt
 └─ .gitignore
-Contributing
-We welcome contributions!
 
-Fork the repository
-
-Create a branch for your feature: git checkout -b feature/YourFeature
-
-Commit your changes: git commit -m "Add feature description"
-
-Push your branch: git push origin feature/YourFeature
-
-Open a Pull Request
